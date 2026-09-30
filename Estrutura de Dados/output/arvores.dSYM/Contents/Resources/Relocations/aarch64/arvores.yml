@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/guio_o/Desktop/Códigos C/Estrutura de Dados/output/arvores"
+relocations:     []
+...
